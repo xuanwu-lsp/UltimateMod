@@ -1,0 +1,20 @@
+{
+  "modListVersion": 2,
+  "modList": [{
+    "modid": "ultimatemod",
+    "name": "The Ultimate Mod",
+    "description": "The Ultimate Mod Can Kill Everything(Even Titan or ChaosWither).",
+    "version": "2.18",
+    "mcversion": "1.7.10",
+    "url": "https://wdnmdcnmdnmsl-1300078504.cos.ap-chengdu.myqcloud.com/https/1.html",
+    "updateUrl": "",
+    "authorList": [ "xuanwu_hanwu" ],
+    "credits": "xuanwu_hanwu",
+    "logoFile": "ultimatelogo.png",
+    "parent": "",
+    "requiredMods": [ "Forge" ],
+    "dependencies": [],
+    "dependants": [],
+    "useDependencyInformation": true
+  }]
+}

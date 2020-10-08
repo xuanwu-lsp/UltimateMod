@@ -1,0 +1,56 @@
+{
+  "witherzilladeath": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "titan/wither/witherzilladeath",
+        "stream": true
+      }
+    ]
+  },
+  "jntm": {
+    "catrgory": "master",
+    "sounds": [
+      {
+        "name": "music/jntm",
+        "stream": true
+      }
+    ]
+  },
+  "witherzillaspawn": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "titan/wither/witherzillaspawn",
+        "stream": true
+      }
+    ]
+  },
+  "totem": {
+    "catrgory": "master",
+    "sounds": [
+      {
+        "name": "item/totem",
+        "stream": true
+      }
+    ]
+  },
+  "badapple": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "music/BadApple",
+        "stream": true
+      }
+    ]
+  },
+  "lol": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "music/urf",
+        "stream": true
+      }
+    ]
+  }
+}
